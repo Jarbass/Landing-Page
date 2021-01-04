@@ -1,4 +1,4 @@
-# Jarbass.github.io
+# Landing Page
 
 Esse é um layout que fiz como forma de estudo e prática. Utilizei somente HTML e CSS. 
 
